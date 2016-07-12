@@ -10,15 +10,15 @@ MinPos.y=-1
 MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
-NormalPos.top=26
-NormalPos.right=733
-NormalPos.bottom=644
+NormalPos.top=36
+NormalPos.right=1595
+NormalPos.bottom=594
 Class=LaTeXView
 Document=argumentation.tex
 
 [Frame0_View0,0]
-TopLine=276
-Cursor=16175
+TopLine=348
+Cursor=23292
 
 [SessionInfo]
 FrameCount=1
