@@ -1,18 +1,15 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.4.9)  12 JUL 2016 11:40
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  26 JUL 2016 05:21
 entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
 **argumentation.tex
-("C:\Users\Bart\Dropbox\Walton 2016 Argument Evaluation and Evidence review\argumentation2016\argumentation.tex"
+(./argumentation.tex
 LaTeX2e <2011/06/27>
-Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, arabic, armenian, assamese, basque, bengali
-, bokmal, bulgarian, catalan, coptic, croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, galic
-ian, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, icelandic, indonesian, interlingua, irish, italian,
- kannada, kurmanji, latin, latvian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, ngerman
--x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, romanian, russian, sanskrit, serbian, slovak, sloven
-ian, spanish, swedish, swissgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usenglishmax, w
-elsh, loaded.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
+Babel <3.9f> and hyphenation patterns for 78 languages loaded.
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size12.clo"
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/size12.clo
 File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -27,7 +24,9 @@ File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("C:\Users\Bart\Dropbox\Walton 2016 Argument Evaluation and Evidence review\argumentation2016\argumentation.aux")
+(./argumentation.aux)
+\openout1 = `argumentation.aux'.
+
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
@@ -44,34 +43,27 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <14.4> on input line 12.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 12.
+ [1
 
-[1
-
-{C:/Users/Bart/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2] [3] [4]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 188.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 188.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 188.
- [5] [6] [7]
-("C:\Users\Bart\Dropbox\Walton 2016 Argument Evaluation and Evidence review\argumentation2016\argumentation.aux") ) 
+{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
+ [4] [5] [6] [7] (./argumentation.aux) ) 
 Here is how much of TeX's memory you used:
- 238 strings out of 493921
- 3222 string characters out of 3144880
- 56031 words of memory out of 3000000
- 3606 multiletter control sequences out of 15000+200000
- 8541 words of font info for 30 fonts, out of 3000000 for 9000
- 841 hyphenation exceptions out of 8191
- 22i,6n,19p,499b,187s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/P
-rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/p
-ublic/amsfonts/cm/cmmi12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Fil
-es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfo
-nts/cm/cmti12.pfb>
-Output written on argumentation.pdf (7 pages, 80745 bytes).
+ 219 strings out of 493315
+ 2436 string characters out of 6137904
+ 58158 words of memory out of 5000000
+ 3752 multiletter control sequences out of 15000+600000
+ 6103 words of font info for 22 fonts, out of 8000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 22i,6n,19p,498b,187s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2013/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2013/texmf-dist/font
+s/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2013/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2013/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmti12.pfb>
+Output written on argumentation.pdf (7 pages, 68591 bytes).
 PDF statistics:
- 46 PDF objects out of 1000 (max. 8388607)
+ 44 PDF objects out of 1000 (max. 8388607)
+ 30 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
