@@ -17,8 +17,8 @@ Class=LaTeXView
 Document=argumentation.tex
 
 [Frame0_View0,0]
-TopLine=424
-Cursor=27182
+TopLine=130
+Cursor=8633
 
 [SessionInfo]
 FrameCount=1
