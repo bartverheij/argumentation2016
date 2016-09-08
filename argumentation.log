@@ -1,19 +1,13 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.4.9)  3 SEP 2016 09:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.2.9)  8 SEP 2016 17:13
 entering extended mode
-**argumentation.tex
-("C:\Users\Bart\Dropbox\Walton 2016 Argument Evaluation and Evidence review\argumentation2016\argumentation.tex"
-LaTeX2e <2011/06/27>
-Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, arabic, armenian, assamese, basque, bengali
-, bokmal, bulgarian, catalan, coptic, croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, galic
-ian, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, icelandic, indonesian, interlingua, irish, italian,
- kannada, kurmanji, latin, latvian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, ngerman
--x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, romanian, russian, sanskrit, serbian, slovak, sloven
-ian, spanish, swedish, swissgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usenglishmax, w
-elsh, loaded.
+**./argumentation.tex
+(argumentation.tex
+LaTeX2e <2015/10/01> patch level 2
+Babel <3.9n> and hyphenation patterns for 69 languages loaded.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
-Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size12.clo"
-File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@section=\count80
@@ -27,14 +21,16 @@ File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(C:\Users\Bart\AppData\Roaming\MiKTeX\2.9\tex\latex\natbib\natbib.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\natbib\natbib.sty"
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip43
 \bibsep=\skip44
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count87
 )
-("C:\Users\Bart\Dropbox\Walton 2016 Argument Evaluation and Evidence review\argumentation2016\argumentation.aux")
+(argumentation.aux)
+\openout1 = `argumentation.aux'.
+
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
@@ -51,29 +47,30 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <14.4> on input line 13.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 13.
+ [1
 
-[1
-
-{C:/Users/Bart/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2] [3] [4] [5] [6]
+{C:/Users/p230681/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2] [3] [
+4] [5] [6]
 Overfull \hbox (3.80841pt too wide) in paragraph at lines 370--384
-[]\OT1/cmr/m/n/12 Another in-ter-est-ing con-tri-bu-tion is Wal-ton's di-a-log-i-cal and argumentation-
+[]\OT1/cmr/m/n/12 Another in-ter-est-ing con-tri-bu-tion is Wal-ton's di-a-log-
+i-cal and argumentation-
  []
 
-("C:\Users\Bart\Dropbox\Walton 2016 Argument Evaluation and Evidence review\argumentation2016\argumentation.bbl"
-[7]) [8] ("C:\Users\Bart\Dropbox\Walton 2016 Argument Evaluation and Evidence review\argumentation2016\argumentation.aux
-") ) 
+(argumentation.bbl [7]) [8] (argumentation.aux) ) 
 Here is how much of TeX's memory you used:
- 604 strings out of 493921
- 8134 string characters out of 3144880
- 62652 words of memory out of 3000000
- 3970 multiletter control sequences out of 15000+200000
+ 606 strings out of 493634
+ 7356 string characters out of 3141309
+ 66424 words of memory out of 3000000
+ 4064 multiletter control sequences out of 15000+200000
  6103 words of font info for 22 fonts, out of 3000000 for 9000
- 841 hyphenation exceptions out of 8191
- 22i,6n,24p,618b,210s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/font
-s/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Pro
-gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on argumentation.pdf (8 pages, 82959 bytes).
+ 1025 hyphenation exceptions out of 8191
+ 22i,6n,24p,620b,212s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on argumentation.pdf (8 pages, 82831 bytes).
 PDF statistics:
  45 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

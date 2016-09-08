@@ -10,17 +10,35 @@ MinPos.y=-1
 MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
-NormalPos.top=36
-NormalPos.right=1577
-NormalPos.bottom=594
+NormalPos.top=26
+NormalPos.right=713
+NormalPos.bottom=644
 Class=LaTeXView
 Document=argumentation.tex
 
 [Frame0_View0,0]
-TopLine=406
-Cursor=26142
+TopLine=533
+Cursor=26245
+
+[Frame1]
+Flags=0
+ShowCmd=1
+MinPos.x=-1
+MinPos.y=-1
+MaxPos.x=-1
+MaxPos.y=-1
+NormalPos.left=4
+NormalPos.top=26
+NormalPos.right=713
+NormalPos.bottom=644
+Class=BibTeXView
+Document=cumulative.bib
+
+[Frame1_View0,0]
+TopLine=0
+Cursor=201
 
 [SessionInfo]
-FrameCount=1
+FrameCount=2
 ActiveFrame=0
 

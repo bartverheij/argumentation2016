@@ -1,9 +1,15 @@
 \begin{thebibliography}{}
 
-\bibitem[\protect\astroncite{Austin}{1962}]{austin1962}
+\bibitem[\protect\astroncite{Austin}{1946}]{austin1946}
+Austin, J.~L. (1946).
+\newblock Other minds.
+\newblock {\em Proceedings of the Aristotelian Society}, Supplementary Volume
+  20:59--69.
+
+\bibitem[\protect\astroncite{Austin}{1962}]{austin1962sense}
 Austin, J.~L. (1962).
-\newblock {\em How to do Things with Words. Second Edition}.
-\newblock Harvard University Press, Cambridge (Massachusetts).
+\newblock {\em Sense and Sensibilia}.
+\newblock Oxford University Press, Oxford.
 
 \bibitem[\protect\astroncite{Baltag and Renne}{2016}]{baltagRenne2016}
 Baltag, A. and Renne, B. (2016).
